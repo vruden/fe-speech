@@ -1,4 +1,4 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/ispal/pen/LxjgEj.
+A Pen created at CodePen.io by Irko Palenius. You can find this one at http://codepen.io/ispal/pen/LxjgEj.
 
  Little reminder app prototype I created. All the animations/transitions you see on the app are made with CSS  which shows what you can do with it. This is also a Vue.js app.
 --------------------------------------
